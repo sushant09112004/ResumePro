@@ -26,6 +26,9 @@ export default function SearchPage() {
           </div>
         ))}
       </div>
+      <div>
+        rhis is the testing div added to m
+      </div>
     </div>
   );
 }
